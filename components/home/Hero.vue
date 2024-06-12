@@ -35,7 +35,7 @@ const { title, description } = useAppConfig()
           size="lg"
           type="outline"
           rel="noopener"
-          href="https://github.com/ccbikai/sink"
+          href="https://github.com/baiheinet/Sink"
           class="flex items-center justify-center gap-1"
           target="_blank"
         >
